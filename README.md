@@ -1,6 +1,6 @@
-# 🖌️ Style It Up - Round 1 (CSS Battle)
+# 🖌️ The CSS Showdown - Round 1 (CSS Battle)
 
-Welcome to Round 1 of **Style It Up** — the ultimate CSS styling challenge!
+Welcome to Round 1 of **The CSS Showdown** — the ultimate CSS styling challenge!
 
 Participants will be given a base HTML file along with assets. Your task is to style the page using only CSS to make it visually appealing and responsive.
 
@@ -13,7 +13,7 @@ Participants will be given a base HTML file along with assets. Your task is to s
 If you're familiar with Git, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Suyash2304/acm-ycce-the-css-showdown.git
 ```
 
 > Replace `your-username/your-repo-name` with the actual GitHub path.
@@ -32,8 +32,9 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ```bash
 |-- assets/
-|   |-- images/
-|   |-- icons/
+|   |-- logo.png
+|   |-- logo_bg.png
+|   |-- team-member.webp
 |
 |-- index.html
 |-- README.md
